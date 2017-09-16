@@ -1,1 +1,4 @@
 test hrer 
+test
+git reset --hard HEAD^
+git pull
