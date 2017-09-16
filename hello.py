@@ -1,6 +1,6 @@
 print("Hello World")
-print("Hello world2")
-print("heel")
+print("Tell your world")
+
 
 #
 
