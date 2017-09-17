@@ -3,3 +3,4 @@ test
 git reset --hard HEAD^
 git pull
  hello world~~~i local
+ hotfix remote 1
